@@ -1,7 +1,7 @@
 ```markdown
 # Mapify
 
-![Mapify Logo]("F:\bsghd\logo.jpeg")
+![Mapify Logo]("\images\logo.jpeg")
 
 Mapify is a web application that helps users share and find locations with ease..
 
