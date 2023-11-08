@@ -1,3 +1,4 @@
+```markdown
 # Mapify
 
 ![Mapify Logo]("F:\bsghd\logo.jpeg")
@@ -32,40 +33,55 @@ Follow these steps to install Mapify on your local machine:
 1. Clone this repository:
    ```shell
    git clone https://github.com/Aditya-Ghosh-27/Mapify.git
-Change to the project directory:
+   ```
 
-cd Mapify
-Install dependencies using npm or yarn:
+2. Change to the project directory:
+   ```shell
+   cd Mapify
+   ```
 
-npm install
-# or
-yarn install
-Start the development server:
+3. Install dependencies using npm or yarn:
+   ```shell
+   npm install
+   # or
+   yarn install
+   ```
 
-npm start
-# or
-yarn start
-Mapify should now be running on http://localhost:3000.
+4. Start the development server:
+   ```shell
+   npm start
+   # or
+   yarn start
+   ```
 
-Usage
-Start Mapify by following the installation instructions.
-Create a new map or open an existing one.
-Use the intuitive interface to add markers, routes, and other map elements.
-Customize map styles and layers as needed.
-Save and export your map for sharing or embedding.
-For more detailed usage instructions, refer to our User Guide.
+Mapify should now be running on `http://localhost:3000`.
 
-Contributing
+## Usage
+
+1. Start Mapify by following the installation instructions.
+2. Create a new map or open an existing one.
+3. Use the intuitive interface to add markers, routes, and other map elements.
+4. Customize map styles and layers as needed.
+5. Save and export your map for sharing or embedding.
+
+For more detailed usage instructions, refer to our [User Guide](/docs/user-guide.md).
+
+## Contributing
+
 We welcome contributions from the open-source community to make Mapify even better. To get started, follow these steps:
 
-Fork the repository.
-Create a new branch for your feature or bug fix: git checkout -b feature/your-feature-name.
-Make your changes and commit them: git commit -m "Add your feature".
-Push your changes to your fork: git push origin feature/your-feature-name.
-Open a pull request to this repository.
-Please review our Contribution Guidelines for more details.
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix: `git checkout -b feature/your-feature-name`.
+3. Make your changes and commit them: `git commit -m "Add your feature"`.
+4. Push your changes to your fork: `git push origin feature/your-feature-name`.
+5. Open a pull request to this repository.
 
-License
-Mapify is licensed under the MIT License. See the LICENSE file for details.
+Please review our [Contribution Guidelines](/CONTRIBUTING.md) for more details.
 
-If you have any questions or encounter issues, please create an issue. We appreciate your feedback and contributions!
+## License
+
+Mapify is licensed under the MIT License. See the [LICENSE](/LICENSE) file for details.
+
+---
+
+If you have any questions or encounter issues, please [create an issue](https://github.com/Aditya-Ghosh-27/Mapify/issues). We appreciate your feedback and contributions!
