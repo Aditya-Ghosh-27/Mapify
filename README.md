@@ -1,7 +1,7 @@
 ```markdown
 # Mapify
 
-![Mapify Logo]("\images\logo.jpeg")
+![Mapify Logo]("/images/logo.jpeg")
 
 Mapify is a web application that helps users share and find locations with ease..
 
@@ -24,7 +24,7 @@ Mapify is a web application that helps users share and find locations with ease.
 
 Check out our live demo: [Mapify Demo](https://aditya-ghosh-27.github.io/Mapify/)
 
-![Mapify Demo]("F:\bsghd\Mapify.jpeg")
+![Mapify Demo]("/images/Mapify.jpeg")
 
 ## Installation
 
