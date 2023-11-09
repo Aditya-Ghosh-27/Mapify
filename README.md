@@ -1,6 +1,6 @@
 # Mapify
 
-## ![Mapify Logo](/images/logo.png)
+## ![Mapify Logo](/images/logo.jpg)
 
 **Mapify** is a web application that simplifies location sharing and exploration. With Mapify, you can effortlessly share your location with friends or find locations shared by others. Whether you're planning a meetup or want to discover interesting places, Mapify has got you covered.
 
