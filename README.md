@@ -1,30 +1,30 @@
-```markdown
 # Mapify
 
-![Mapify Logo](images/logo.jpeg)
+## ![Mapify Logo](/images/logo.png)
 
-Mapify is a web application that helps users share and find locations with ease..
+**Mapify** is a web application that simplifies location sharing and exploration. With Mapify, you can effortlessly share your location with friends or find locations shared by others. Whether you're planning a meetup or want to discover interesting places, Mapify has got you covered.
 
 ## Table of Contents
 
-- [Features](#features)
-- [Demo](#demo)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [**Features**](#features)
+- [**Demo**](#demo)
+- [**Installation**](#installation)
+- [**Usage**](#usage)
+- [**Contributing**](#contributing)
+- [**License**](#license)
 
 ## Features
 
-- Create custom maps with a user-friendly interface.
-- Add markers to pinpoint specific locations.
-- Mobile-friendly for on-the-go map management.
+- **Location Sharing**: Easily share your current location with others.
+- **Location Discovery**: Discover locations shared by friends and contacts.
+- **User-Friendly Interface**: Simple and intuitive design for seamless navigation.
+- **Mobile-Responsive**: Access Mapify on the go, from any device.
 
 ## Demo
 
 Check out our live demo: [Mapify Demo](https://aditya-ghosh-27.github.io/Mapify/)
 
-![Mapify Demo](images/Mapify.jpeg)
+![Mapify Demo](images/mapify.jpg)
 
 ## Installation
 
