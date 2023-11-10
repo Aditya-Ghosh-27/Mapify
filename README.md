@@ -40,20 +40,6 @@ Follow these steps to install Mapify on your local machine:
    cd Mapify
    ```
 
-3. Install dependencies using npm or yarn:
-   ```shell
-   npm install
-   # or
-   yarn install
-   ```
-
-4. Start the development server:
-   ```shell
-   npm start
-   # or
-   yarn start
-   ```
-
 Mapify should now be running on `http://localhost:3000`.
 
 ## Usage
